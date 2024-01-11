@@ -23,3 +23,5 @@ Fifth commit.  Maybe.
 Trying to edit. This is strange.
 
 I have merged this file and now here I add more stuff.
+
+And now moving forward. The main branch should emerge on top.
