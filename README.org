@@ -1,0 +1,8 @@
+This is an org file.
+
+* But there is no org mode in vs-code?
+** There is org mode support 
+
+Here I edit in order to commit my second commit...
+And some more stuff to understand how vs code is working.
+
