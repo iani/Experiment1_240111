@@ -1,8 +1,6 @@
 
-This is the second file.
 
-* and a section in the second file.
-
-Continuing with changes in the new file.
+This is a second  file.
+For exercising. 
 
 
