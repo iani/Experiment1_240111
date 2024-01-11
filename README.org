@@ -7,3 +7,6 @@ Here I edit in order to commit my second commit...
 And some more stuff to understand how vs code is working.
 
 Here I will branch and commit and see if the branch grows. 
+
+And I continue to add more stuff.
+
