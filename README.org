@@ -1,39 +1,11 @@
-This is an org file.
 
-* But there is no org mode in vs-code?
-** There is org mode support 
+This is a file to familiarize myself with:
 
-Here I edit in order to commit my second commit...
-And some more stuff to understand how vs code is working.
+- creating and merging branches 
+    - resolving conflicts when merging branches
+- checking out branches or commits 
+- reverting 
+- selective merging of parts of code from another branch to the current branch.
 
-Here I will branch and commit and see if the branch grows. 
+The history of this repository is messy and the contents are just dummy texts.
 
-And I continue to add more stuff.
-
-And even more. The branch should grow dammit. 
-
-And some more stuff even.
-
-And this should be the third commit.
-
-This was branched from 3d commit and therefore has only one file. 
-
-And this the fourth commit. 
-
-Fifth commit.  Maybe. 
-
-Trying to edit. This is strange.
-
-I have merged this file and now here I add more stuff.
-
-And now moving forward. The main branch should emerge on top.
-
-And this the fourth commit. 
-
-Fifth commit.  Maybe. 
-
-Trying to edit. This is strange.
-
-I have merged this file and now here I add more stuff.
-
-And now moving forward. The main branch should emerge on top.
