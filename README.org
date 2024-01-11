@@ -6,6 +6,12 @@ This is an org file.
 Here I edit in order to commit my second commit...
 And some more stuff to understand how vs code is working.
 
+Here I will branch and commit and see if the branch grows. 
+
+And I continue to add more stuff.
+
+And even more. The branch should grow dammit. 
+
 And some more stuff even.
 
 And this should be the third commit.
@@ -15,3 +21,5 @@ And this the fourth commit.
 Fifth commit.  Maybe. 
 
 Trying to edit. This is strange.
+
+I have merged this file and now here I add more stuff.
